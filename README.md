@@ -27,6 +27,6 @@ The path finding system uses Ant Conloy Optimism (ACO) to find the shortest path
 
 ![AttractionList](https://github.com/Eric0625/TourismRecommendation/blob/main/pictures/PathFinder.png "PathFinder page")
 ***
-2. When the user clicks the Arrange The Path button, the system will plan the travel route for all destinations and display it on the map. You can see in Figure 16 that the results of the travel plan are not repeated. In addition, the total distance of the travel itinerary is also displayed at the top of the page.
+2. When the user clicks the Arrange The Path button, the system will plan the travel route for all destinations and display it on the map. In addition, the total distance of the travel itinerary is also displayed at the top of the page.
 
 ![AttractionList](https://github.com/Eric0625/TourismRecommendation/blob/main/pictures/PathofResult.png "PathFinding result page")

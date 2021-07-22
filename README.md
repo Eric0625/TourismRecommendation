@@ -1,4 +1,4 @@
-# Tourism Recommendation and Pathfinding System
+# Tourism Recommendation and Pathfinding System (A course work)
 ## Background
 This project develops a website that recommends New Zealand attractions to the user based on their interests and help them plan the shortest path that passes all places they want to travel through. 
 

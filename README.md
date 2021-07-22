@@ -23,7 +23,7 @@ The path finding system uses Ant Conloy Optimism (ACO) to find the shortest path
 ![AttractionList](https://github.com/Eric0625/TourismRecommendation/blob/main/pictures/Recommendations.png "Details and recommendations page")
 
 ### The Pathfinding System
-1. A location is put in the PathFinder after the user add it on it's detail page. The PathFinder can contain a maximum of 5 locations for calculation effciency.
+1. A location is put in the PathFinder after the user add it on it's detail page. The PathFinder allows a maximum of 5 locations for maintaining calculation effciency.
 
 ![AttractionList](https://github.com/Eric0625/TourismRecommendation/blob/main/pictures/PathFinder.png "PathFinder page")
 ***
